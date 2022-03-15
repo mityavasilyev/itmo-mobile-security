@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">ITMO</string>
+    <string name="second_fragment_label">Well hello there!</string>
+    <string name="next">Open second page</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Васильев Дмитрий Сергеевич 286550</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
